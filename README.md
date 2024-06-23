@@ -12,8 +12,6 @@
 
  Below UML diagram shows different operations which can be performed 
  ![classes banking_system](https://github.com/mithleshp/banking-system/tree/master/docs/banking_uml.png)
-
- ![banking_uml](banking_uml.png)
  
  The following operations can be performed
 
