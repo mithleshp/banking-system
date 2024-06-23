@@ -5,6 +5,6 @@
     ** 2. MyBankApp : Core class providing interface to clients to open account ,depost and withdraw amount from the bank.
 
  Below UML diagram shows different operations which can be performed 
- ![classes banking_system](https://github.com/mithleshp/banking-system/tree/master/docs/banking_uml.jpg)
+ ![classes banking_system](https://github.com/mithleshp/banking-system/tree/master/docs/banking_uml.png)
  
  
